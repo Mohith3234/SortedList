@@ -1,0 +1,7 @@
+C:\Csharp\SortedListExample1\SortedListExample1\obj\Debug\SortedListExample1.csproj.AssemblyReference.cache
+C:\Csharp\SortedListExample1\SortedListExample1\obj\Debug\SortedListExample1.csproj.CoreCompileInputs.cache
+C:\Csharp\SortedListExample1\SortedListExample1\bin\Debug\SortedListExample1.exe.config
+C:\Csharp\SortedListExample1\SortedListExample1\bin\Debug\SortedListExample1.exe
+C:\Csharp\SortedListExample1\SortedListExample1\bin\Debug\SortedListExample1.pdb
+C:\Csharp\SortedListExample1\SortedListExample1\obj\Debug\SortedListExample1.exe
+C:\Csharp\SortedListExample1\SortedListExample1\obj\Debug\SortedListExample1.pdb
